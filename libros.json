@@ -1,0 +1,19 @@
+{
+    "libros": [
+        {
+            "isbn": "99990000099",
+            "titulo": "I, ROBOT",
+            "autor": "Isaac Asimov"
+        },
+        {
+            "isbn": "2222277777",
+            "titulo": "Aztec",
+            "autor": "Gary Jennings"
+        },
+        {
+            "isbn": "8884849000",
+            "titulo": "Merlina",
+            "autor": "Tim Burton"
+        }
+    ]
+}
